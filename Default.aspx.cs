@@ -10,7 +10,7 @@ namespace WebLibSBGNRenderComparison
 
         //private const string SF_URL = "http://libsbgn.svn.sourceforge.net/viewvc/libsbgn/trunk/test-files";
         //public const string SF_URL = "http://libsbgn.svn.sourceforge.net/svnroot/libsbgn/trunk/test-files/";
-        public const string SF_URL = "http://libsbgn.svn.sourceforge.net/viewvc/libsbgn/trunk/test-files/ER/";
+      public const string SF_URL = "http://svn.code.sf.net/p/libsbgn/code/trunk/test-files/ER";
 
         static string[] elements = new[]
         {

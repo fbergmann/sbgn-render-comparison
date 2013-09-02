@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLibSBGNRenderComparison", "WebLibSBGNRenderComparison.csproj", "{43089AA4-C701-4680-8818-FEF6844D7BB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBMLExtension-vs2010", "..\sbwBuild\source\SBMLLayout\SBMLExtension\SBMLExtension-vs2010.csproj", "{E49AE416-878F-4249-8E05-69486641C77C}"

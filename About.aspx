@@ -19,7 +19,7 @@
         <li> The Reference results are taken from SVN: http://libsbgn.svn.sourceforge.net/viewvc/libsbgn/trunk/test-files/ </li>
         <li> The PathViso results come straight from Matijns page: http://azraelbigcat.dyndns.org/reports/libsbgn/render_comparison/ </li>
         <li> The SBML Render Extension results are directly generated on the server using the latest version of the SBML extension library. For this, each
-             individual file is generated dynamically by checking out the SBGN file from: http://libsbgn.svn.sourceforge.net/viewvc/libsbgn/trunk/test-files/.
+             individual file is generated dynamically by checking out the SBGN file from: http://svn.code.sf.net/p/libsbgn/code/trunk/test-files/.
         </li>
         <li>Vanted files are generated nightly using the latest jar file provided by Tobias Czauderna. </li>
     </ul>
